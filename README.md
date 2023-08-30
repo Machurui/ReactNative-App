@@ -9,6 +9,6 @@ Pour lancer ce projet
   npx expo start
 ```
 
-## Auteurs
+## Auteur
 
 - [@François Serra](https://www.github.com/machurui)
