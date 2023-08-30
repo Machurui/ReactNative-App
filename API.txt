@@ -1,0 +1,1 @@
+http://estiamqcm.davilat.com/api/quizzes
